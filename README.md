@@ -33,9 +33,9 @@ Sou **Desenvolvedor de Sistemas** e **Web Designer**, atualmente estagiário na 
 ## 📈 Estatísticas do GitHub
 <div align="center">
   
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wikipay007&layout=compact&theme=radical)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wikipay007&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wikipay007&layout=compact&theme=radical)
 
 </div>
 
