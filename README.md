@@ -39,10 +39,6 @@ Sou **Desenvolvedor de Sistemas** e **Web Designer**, atualmente estagiário na 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wikipay007&theme=radical)
 
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wikipay007&layout=compact&theme=radical)
-
-
-
 </div>
 
 ---
