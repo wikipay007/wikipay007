@@ -13,7 +13,7 @@ Sou **Desenvolvedor de Sistemas** e **Web Designer**, atualmente estagiário na 
 - **Design**: Adobe Illustrator, After Effects
 - **Web**: HTML, CSS, desenvolvimento de páginas responsivas
 - **Cloud Computing**: Certificação AWS Cloud Practitioner
-- **Marketing**: Criação de e-mails marketing e design voltado para conversão
+- **Marketing**: Criação de artes para e-mails marketing e design voltado para conversão
 
 ---
 
