@@ -11,9 +11,10 @@ Sou **Desenvolvedor de Sistemas** e **Web Designer**, atualmente estagiário na 
 
 ## 🔧 Habilidades Técnicas
 - **Design**: Adobe Illustrator, After Effects
-- **Web**: HTML, CSS, desenvolvimento de páginas responsivas
+- **Web**: HTML, CSS, desenvolvimento de páginas responsivas, React ❤️
 - **Cloud Computing**: Certificação AWS Cloud Practitioner
 - **Marketing**: Criação de artes para e-mails marketing e design voltado para conversão
+- **Mobile**: React Native ❤️
 
 ---
 
