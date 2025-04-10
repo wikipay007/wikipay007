@@ -4,7 +4,7 @@
 Sou **Desenvolvedor de Sistemas** e **Web Designer**, atualmente estagiário na **Hanesbrands Brasil**. Crio interfaces visuais, artes para sites e campanhas de e-mail marketing para marcas como Zorba, Kendall, Tensor e Hanes.
 
 - 🎨 **Focado em**: Web Design, UI/UX e Front-end
-- 💻 **Habilidades em código**: HTML, CSS, bootstrap e design responsivo
+- 💻 **Habilidades em código**: HTML, CSS, bootstrap, Tailwind e design responsivo
 - 🚀 **Motivado a aprender**: Sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
 
 ---
