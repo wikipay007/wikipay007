@@ -48,6 +48,11 @@ Sou **Desenvolvedor de Sistemas** e **Web Designer**, atualmente estagiário na 
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
   
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wikipay007&layout=compact&theme=radical&hide_border=true&card_width=400)
 
